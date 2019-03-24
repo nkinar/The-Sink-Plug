@@ -5,6 +5,9 @@ for aesthetic purposes.  This will reduce but not completely stop the flow of wa
 
 ![3D model of SinkPlug](sink-plug-photo.jpg)
 
+Edit the SinkPlug.ipt part file to create a similar part.  The SinkPlug.stl file
+can be used to directly create the part on a 3D printer.
+
 ## Rendered 3D View
 ![3D model of SinkPlug](sinkplug.jpg)
 
