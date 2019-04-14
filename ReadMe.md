@@ -29,5 +29,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Autodesk for the Inventor Professional software license for Education
+* Autodesk for the Inventor Professional software license for education
 * Full Deck Visuals (Saskatoon, Saskatchewan, Canada) for the sink plug image
