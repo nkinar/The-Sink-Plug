@@ -3,7 +3,7 @@
 A part that can be created on a 3D printer to block the sink overflow on a bathroom sink
 for aesthetic purposes.  This will reduce but not completely stop the flow of water.
 
-![3D model of SinkPlug](sink-plug-photo.jpg)
+![Photo](sink-plug-photo.jpg)
 
 Edit the SinkPlug.ipt part file to create a similar part.  The SinkPlug.stl file
 can be used to directly create the part on a 3D printer.
