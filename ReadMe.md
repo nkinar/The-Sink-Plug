@@ -9,7 +9,7 @@ Edit the SinkPlug.ipt part file to create a similar part.  The SinkPlug.stl file
 can be used to directly create the part on a 3D printer.
 
 ## Rendered 3D View
-![3D model of SinkPlug](sinkplug-rendered.jpg)
+![3D model of SinkPlug](sinkplug-rendered-version.jpg)
 
 ## Built With
 
