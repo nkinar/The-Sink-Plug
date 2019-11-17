@@ -1,7 +1,9 @@
 # The Sink Plug
 
 A part that can be created on a 3D printer to block the sink overflow on a bathroom sink
-for aesthetic purposes.  This will reduce but not completely stop the flow of water.
+for aesthetic purposes.  This will reduce but not completely stop the flow of water through the overflow port.  Note
+that sink overflows are not necessary for sink operation but will prevent overflow if the sink is blocked and also encourage the sink to
+drain faster.
 
 ![Photo](sink-plug-photo.jpg)
 
